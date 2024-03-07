@@ -1,0 +1,17 @@
+.login-form{
+    margin : 5% auto;
+}
+ 
+.logout-btn a{
+    text-decoration : none;
+    color : #000000;
+}
+ 
+#add-todo-form{
+    display : none;
+ 
+}
+ 
+.hidden{
+    display : none;
+}
